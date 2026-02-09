@@ -24,10 +24,10 @@ It includes data preprocessing, correlation analysis, classification using KNN, 
 - Cross-validation confirmed the robustness of the models
 - Imputation methods influenced final class prediction
 
+## Author
+Alim Liadi — Computer Science Student
+
 ## ▶ How to run
 ```bash
 pip install -r requirements.txt
 python main.py
-
-## Author
-Alim Liadi — Computer Science Student
