@@ -28,3 +28,6 @@ It includes data preprocessing, correlation analysis, classification using KNN, 
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## Author
+Alim Liadi — Computer Science Student
